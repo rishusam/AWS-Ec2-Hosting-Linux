@@ -1,3 +1,5 @@
+![1_LM8i9zx9Rf5hSf2dCu72Og](https://github.com/rishusam/AWS-Ec2-Hosting-Linux/assets/113242832/43cd3f9b-403f-4c33-b3eb-b7ffbef7d0d5)
+
 # AWS-Ec2-Hosting-Linux
 To deploy a project from GitHub to an AWS EC2 instance running Ubuntu, you typically need to follow these general steps:
 
